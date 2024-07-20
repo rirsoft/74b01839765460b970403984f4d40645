@@ -40,11 +40,11 @@
         }
 
         static splashscreen(status) {
-            if (status) {
-                navigator.splashscreen.show();
-            } else {
-                navigator.splashscreen.hide();
-            }
+            // if (status) {
+            //     navigator.splashscreen.show();
+            // } else {
+            //     navigator.splashscreen.hide();
+            // }
         }
     }
 
